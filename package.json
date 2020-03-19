@@ -11,5 +11,8 @@
 	"framer": {
 		"id": "51975792-f444-42a6-8732-f1138eea0e9a"
 	},
-	"author": "Jovica Sevic"
+	"author": "Jovica Sevic",
+	"dependencies": {
+		"@framer/graz.android-kit": "^1.1.0"
+	}
 }
